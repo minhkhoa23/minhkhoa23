@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Khoa</h1>
+<h1 align="center">👋 Hi, I'm Thai Minh Khoa</h1>
 
 <p align="center">
   🎓 I'm a student at <b>University of Science (HCMUS) – VNUHCM</b>, majoring in <b>Information Technology – Data Science</b>. I am passionate about turning data into insights and building intelligent systems that can make an impact.  
