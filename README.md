@@ -3,7 +3,6 @@
 <p align="center">
   🎓 I'm a student at <b>University of Science (HCMUS) – VNUHCM</b>, majoring in <b>Information Technology – Data Science</b>. I am passionate about turning data into insights and building intelligent systems that can make an impact.  
 </p>
----
 
 ## 🛠 Tech Stack
 
