@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Thai Minh Khoa</h1>
 
 <p align="center">
-  🎓 I’m a student at the <b> University of Science (HCMUS) – VNUHCM </b>, majoring in Information Technology – Data Science with a focus on Natural Language Processing (NLP). I’m passionate about Computer Science and Data Science, and I love exploring how data and intelligent systems can be used to solve real-world problems.
+  🎓 I’m a student at the <b> University of Science (HCMUS) – VNUHCM </b>, majoring in Information Technology – Computer Science with a focus on Natural Language Processing (NLP). I’m passionate about Computer Science and Data Science, and I love exploring how data and intelligent systems can be used to solve real-world problems.
 </p>
 
 ## 🛠 Tech Stack
