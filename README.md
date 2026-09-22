@@ -37,10 +37,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhkhoa23&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhkhoa23&theme=github_dark" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhkhoa23&theme=github_dark" height="180"/>
 </p>
